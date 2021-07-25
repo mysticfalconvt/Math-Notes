@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e86b1c0d8946e25e",
+        "id": "2d412df03f89c1c4",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,8 +82,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e86b1c0d8946e25e",
+  "active": "2d412df03f89c1c4",
   "lastOpenFiles": [
+    "Testing.md",
+    "index.md",
     "Untitled.md"
   ]
 }
