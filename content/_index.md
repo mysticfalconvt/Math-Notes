@@ -5,4 +5,3 @@
 
 
 
-👉  [Directory](moc/directory.md)
