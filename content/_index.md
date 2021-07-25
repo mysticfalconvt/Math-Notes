@@ -1,6 +1,6 @@
 # Boskind Math
 
 
-## [[Math/quartz/content/Math/index]]
+## [index](Math/quartz/content/Math/index.md)
 
 👉  [Directory](moc/directory.md)
