@@ -1,12 +1,13 @@
-name: Jacky Zhao
+name: Rob Boskind
 enableToc: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  This is the collection of notes for Mr. Boskind's 8th Grade Math Class.
 page_title:
-  Quartz Example Page
+  Mr. Boskind's Math Notes
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: Boskind.tech
+    link: https://boskind.tech
+  - link_name: Illustrative Math
+    link: https://im.kendallhunt.com/MS/students/3/index.html
+  - link_name: Math Videos
+    link: https://boskind.tech/units
