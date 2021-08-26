@@ -1,4 +1,4 @@
 ---
-title: Lesson 3
+title: Lesson 1.3
 ---
-# Lesson 3
+# Lesson 1.3

@@ -1,10 +1,5 @@
 # Angles
-What Do we know about angles?
 
 
-
-## Where did we learn it?
-```dataview
-TABLE title as "Title"
-FROM [[angels]]
-```
+## When did we talk about angles?
+[Lesson1](Unit1/Lesson1.1.md)
