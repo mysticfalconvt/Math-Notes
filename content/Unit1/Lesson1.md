@@ -8,7 +8,7 @@ title: Lesson1
 ## The lesson where Mr. Boskind dances around
 
 ## What did we learn?
-- Today, we recapped on [angels](quartz/content/misc%20stuff/angels.md) and vortexes. We watched some seemingly useless dance turn into a informative recap of angles and counter clockwise and clockwise. We also learned the importance of perseptiveness.
+- Today, we recapped on [angels](quartz/content/miscStuff/angels.md) and vortexes. We watched some seemingly useless dance turn into a informative recap of angles and counter clockwise and clockwise. We also learned the importance of perseptiveness.
 - Using counter clockwise and clockwise is a more efficient way of telling if the shape turns left or right, drawing a clock over the square is an easy way to tell which way it is turning.
 - I learned what a vertex was.
 	- a vertex is the dot that connects two lines and makes a angle
