@@ -13,3 +13,7 @@ title: Unit 1
 - [Lesson4](Unit1/Lesson1.4.md)
 - [Lesson5](Unit1/Lesson1.5.md)
 - [Lesson6](Unit1/Lesson1.6.md)
+- [Lesson1.7](Unit1/Lesson1.7.md)
+- [Lesson1.8](Unit1/Lesson1.8.md)
+- [Lesson1.9](Unit1/Lesson1.9.md)
+- [Lesson1.10](Unit1/Lesson1.10.md)
