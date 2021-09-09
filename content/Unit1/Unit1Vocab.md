@@ -33,3 +33,8 @@ First, A is translated to the right to make B. Next, B is reflected across line 
 	- The coordinate plane is a system for telling where points are. For example. point R  is located at (3,2) on the coordinate plane, because it is three units to the right and two units up. ![](/Unit1/attatchments/Pasted%20image%2020210902063943.png)
 - **Vertex**
 	- A vertex is a point where two or more edges meet. When we have more than one vertex, we call them vertices. ![](/Unit1/attatchments/Pasted%20image%2020210902064038.png)
+
+- **Corresponding** When part of an original figure matches up with part of a copy, we call them corresponding parts. These could be points, segments, angles, or distances.
+	- For example, point  in the first triangle corresponds to point  in the second triangle. Segment  corresponds to segment . ![](/Unit1/attatchments/Pasted%20image%2020210909062210.png)
+
+- **Rigid Transformation** A rigid transformation is a move that does not change any measurements of a figure. Translations, rotations, and reflections are rigid transformations, as is any sequence of these.
