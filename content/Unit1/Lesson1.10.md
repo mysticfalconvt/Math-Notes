@@ -5,6 +5,10 @@ title: Lesson 10
 ![](/Unit1/attatchments/Pasted%20image%2020210909063053.png)
 ![](/Unit1/attatchments/Pasted%20image%2020210909063119.png)
 
+## Summary
+Earlier, we learned that if we apply a sequence of rigid transformations to a figure, then corresponding sides have equal length and corresponding angles have equal measure. These facts let us figure out things without having to measure them!
+![](/Unit1/attatchments/Pasted%20image%2020210913063825.png)
+
 ## What did I learn today?
 - Rotation: # of degrees, C.O.R, direction Reflection: L.O.R Translation: (x + ?, y + ?)
 - rotating something 180 degrees makes it parallel

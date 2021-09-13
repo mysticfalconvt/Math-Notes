@@ -41,3 +41,6 @@ First, A is translated to the right to make B. Next, B is reflected across line 
 	- For example, point  in the first triangle corresponds to point  in the second triangle. Segment  corresponds to segment . ![](/Unit1/attatchments/Pasted%20image%2020210909062210.png)
 
 - **Rigid Transformation** A rigid transformation is a move that does not change any measurements of a figure. Translations, rotations, and reflections are rigid transformations, as is any sequence of these.
+
+
+- **vertical angles** Vertical angles are opposite angles that share the same vertex. They are formed by a pair of intersecting lines. Their angle measures are equal. ![](/Unit1/attatchments/Pasted%20image%2020210913063557.png)For example, angles AED  and CEB are vertical angles.
