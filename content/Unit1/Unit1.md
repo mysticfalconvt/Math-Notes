@@ -17,3 +17,8 @@ title: Unit 1
 - [Lesson 8](Unit1/Lesson1.8.md)
 - [Lesson 9](Unit1/Lesson1.9.md)
 - [Lesson 10](Unit1/Lesson1.10.md)
+- [Lesson1.11](Unit1/Lesson1.11.md)
+- [Lesson1.12](Unit1/Lesson1.12.md)
+- [Lesson1.14](Unit1/Lesson1.14.md)
+- [Lesson1.15](Unit1/Lesson1.15.md)
+- [UnitTestNotes](Unit1/UnitTestNotes.md)
