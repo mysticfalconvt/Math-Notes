@@ -44,3 +44,9 @@ First, A is translated to the right to make B. Next, B is reflected across line 
 
 
 - **vertical angles** Vertical angles are opposite angles that share the same vertex. They are formed by a pair of intersecting lines. Their angle measures are equal. ![](/Unit1/attatchments/Pasted%20image%2020210913063557.png)For example, angles AED  and CEB are vertical angles.
+
+- **Congruent**
+	One figure is congruent to another if it can be moved with translations, rotations, and reflections to fit exactly over the other.
+	
+- ![](/Unit1/attatchments/Pasted%20image%2020210929075138.png)
+- ![](/Unit1/attatchments/Pasted%20image%2020210929075153.png)
