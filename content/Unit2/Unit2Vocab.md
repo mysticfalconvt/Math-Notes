@@ -8,7 +8,7 @@ title: Unit 2 Vocab
 ### Scale Factor
 ![](/Unit2/attatchments/Pasted%20image%2020211027080119.png)
 
-### Dilation
+### [Dilation](Unit2/Dilation.md)
 ![](/Unit2/attatchments/Pasted%20image%2020211027080309.png)
 
 ### Center of Dilation
@@ -17,7 +17,7 @@ title: Unit 2 Vocab
 ### Similar
 ![](/Unit2/attatchments/Pasted%20image%2020211027080446.png)
 
-### Slope
+### [Slope of a line](Unit2/Slope%20of%20a%20line.md)
 The slope of a line is a number we can calculate using any two points on the line. To find the slope, divide the vertical distance between the points by the horizontal distance.
 
 The slope of this line is 2 divided by 3 or 2/3. ![](/Unit2/attatchments/Pasted%20image%2020211027080616.png)
@@ -26,4 +26,4 @@ Simply put, the slope of a line is the ratio of *rise* to *run* of a line.
 
 ### Equation of a line
 The equation of a line is the way that we represent the relationship between x and y of every point on a line.
-
+![](/Unit2/attatchments/Pasted%20image%2020211028080744.png)
