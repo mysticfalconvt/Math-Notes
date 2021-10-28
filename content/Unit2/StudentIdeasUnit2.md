@@ -3,7 +3,7 @@ title: Student Ideas Unit 2
 ---
 # Student Ideas Unit 2
 
-- I learned what a [Slope](Unit2/Slope%20of%20a%20line.md) is
+- I learned what a [Slope](Unit2/Slopeofaline.md) is
 - congruent means the same shape and size but similar means same shape but different size
 - I learned about rosl (Ratio of Side Lengths)
 - Today we learned a new math word [Dilation](Unit2/Dilation.md)
