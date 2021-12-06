@@ -6,7 +6,9 @@
 
 ## Math Notes
 ###  [Unit 1](Unit1/Unit1.md)
-#### [Unit1Vocab](Unit1/Unit1Vocab.md)
-### [Unit2](Unit2/Unit2.md)
-#### [Unit2Vocab](Unit2/Unit2Vocab.md)
+#### [Unit 1 Vocab](Unit1/Unit1Vocab.md)
+### [Unit 2](Unit2/Unit2.md)
+#### [Unit 2 Vocab](Unit2/Unit2Vocab.md)
+### [Unit 3](Unit3/Unit3.md)
+#### [Unit 3 Vocab](Unit3/Unit3Vocab.md)
 
