@@ -26,6 +26,8 @@ We did the equation of a line in *Slope Intercept form *
 We also did the equation of a line in *Standard Form*
 Ax+By=C
 
+for more details see [Equation of a Line](Unit2/EquationofaLine.md)
+
 ## Special Lines
 ### Horizontal Lines
 Horizontal lines in the coordinate plane represent situations where the Y value doesn’t change at all while the X value changes. For example, the horizontal line that goes through the point (0,13) can be described in words as “for all points on the line, the Y value is always 13.” An equation that says the same thing is y=13.
