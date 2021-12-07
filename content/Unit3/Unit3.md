@@ -11,7 +11,7 @@ title: Unit 3
 ### Proprotional Relationships
 Linear relationships that go through the *Origin* (0,0)
 
-## Slope
+## [Slope](Unit2/Slopeofaline.md)
 Also Known As:
 - Rate Of Change
 - Constant Of Proportionality

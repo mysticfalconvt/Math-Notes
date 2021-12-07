@@ -7,3 +7,5 @@ Slope is defined as the steepness, incline, or gradient of a line. It is also de
 ![](/Unit2/attatchments/Pasted%20image%2020211028075651.png)
 
 ![](/Unit2/attatchments/Pasted%20image%2020211028075429.png)
+
+![](/Unit2/attatchments/Pasted%20image%2020211207074307.png)
