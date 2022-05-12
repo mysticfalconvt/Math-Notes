@@ -14,3 +14,4 @@
 ### [Unit 4](Unit4/Unit4.md)
 #### [Unit 4 Vocab](Unit4/unit4vocab.md)
 
+### [Unit 7](Unit7/Unit7.md)
