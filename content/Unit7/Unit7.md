@@ -34,3 +34,6 @@ In order to **divide** numbers in scientific notation, you once again apply the 
 
 This will produce a new number times a different power of 1010. If it is not already in scientific notation, you convert it, and then you are done.
 ![](/Unit7/attatchments/Pasted%20image%2020220512090110.png)
+
+## Adding and subtracting scientific notation
+![](/Unit7/attatchments/Pasted%20image%2020220512090232.png)
